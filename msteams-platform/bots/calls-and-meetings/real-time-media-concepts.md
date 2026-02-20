@@ -84,8 +84,8 @@ Application-hosted media bots require .NET or C# and Windows Server. For more in
 
 > [!NOTE]
 > Application-hosted media bots require significant infrastructure investment:
-> - Windows Server VMs with GPU capabilities for video processing
-> - High-bandwidth, low-latency network connectivity
+> - Windows Server Virtual Machines
+> - High-bandwidth, low-latency and public IP network connectivity
 > - Scalable compute to handle concurrent calls/meetings
 > - Media processing expertise for codec handling
 >
